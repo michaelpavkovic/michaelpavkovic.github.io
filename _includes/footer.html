@@ -37,6 +37,12 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.freelancer_username %}
+          <li>
+            {% include icon-freelancer.html username=site.freelancer_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
