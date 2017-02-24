@@ -21,7 +21,7 @@ It makes use of several technologies such as Bluetooth, HTTP, and SMS protocols.
 Stormgears, Michael has worked on a music streaming service prototype, which uses the YouTube and 
 YouTube Data APIs to seamlessly stream music for free, legally, to an Android device.
 
-He has experience in Java, Java Swing, Java (Android), and C++.
+He has experience in Java, Java Swing, Java (Android), C++, and Git version control.
 
 ### Thanks for visiting!
 I'm glad you've taken the time to read this! If you are coming here to hire me on Freelancer.com,
