@@ -8,10 +8,10 @@ permalink: /about/
 This website is, as you have probably figured out, my blog! Glad to see you here!
 
 ### About Michael Pavkovic
-Michael Pavkovic is currently a high school student, and a member of a [FIRST] (http://www.firstinspires.org/) 
-FRC robotics team, [Stormgears] (http://www.stormgears.org/). 
+Michael Pavkovic is currently a high school student, and a member of a [FIRST](http://www.firstinspires.org/) 
+FRC robotics team, [Stormgears](http://www.stormgears.org/). 
 He is also a freelance Android application / Java developer. He is available for hire on the
-[Freelancer.com] (https://www.freelancer.com/u/mpavkovic688.html) platform.
+[Freelancer.com](https://www.freelancer.com/u/mpavkovic688.html) platform.
 
 With Stormgears, Michael is a member of the software development team and writes code for
 driver controls of robots, as well as code for vision processing.
