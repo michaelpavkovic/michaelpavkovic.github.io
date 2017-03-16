@@ -10,6 +10,7 @@ twitter_username: michaelminer20
 github_username:  michaelminer20
 freelancer_username: mpavkovic688
 privacy_policy: Privacy Policy
+favicon: /favicon.png
 
 # Build settings
 markdown: kramdown
