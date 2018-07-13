@@ -6,7 +6,7 @@ title: "Privacy Policy of michaelminer20.github.io"
 ### Data Controller and Owner
 Michael Pavkovic - United States of America
 
-__Owner contact email:__ xxxxx
+__Owner contact email:__ mpavkovic688@gmail.com
 
 ### Types of Data collected
 Among the types of Personal Data that this Application collects, by itself or 
