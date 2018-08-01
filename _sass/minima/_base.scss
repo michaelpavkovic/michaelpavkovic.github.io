@@ -130,6 +130,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
+  font-family: Menlo, Monaco;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
@@ -137,6 +138,7 @@ code {
 
 code {
   padding: 1px 5px;
+  tab-size: 4;
 }
 
 pre {
@@ -147,6 +149,7 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+    background-color: #404040;
   }
 }
 
