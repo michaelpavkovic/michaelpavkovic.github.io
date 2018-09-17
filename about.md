@@ -31,6 +31,6 @@ He has experience in Swift, Kotlin, Java, HTML/CSS/JS, and Git version control.
 
 ### Thanks for visiting!
 I'm glad you've taken the time to read this! If you are coming here to hire, please email me at
-[mpavkovic688@gmail.com](mailto:mpavkovic688@gmail.com). Otherwise, enjoy some great articles!
+[{{ site.email }}](mailto:{{ site.email }}). Otherwise, enjoy some great articles!
 
 *-- Michael Pavkovic*
