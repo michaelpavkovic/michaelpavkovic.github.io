@@ -17,6 +17,9 @@
 
       <div class="trigger">
         <!-- <a class="page-link" href="/my-projects">My Projects</a> -->
+        {% if site.resume %}
+          <a class="page-link" href="{{ site.resume }}">Resume</a>
+        {% endif %}
         <a class="page-link" href="/about">About</a>
       </div>
     </nav>

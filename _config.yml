@@ -11,6 +11,7 @@ github_username:  michaelminer20
 freelancer_username: mpavkovic688
 privacy_policy: Privacy Policy
 favicon: /favicon.png
+resume: /resume-public.pdf
 
 # Build settings
 markdown: kramdown
