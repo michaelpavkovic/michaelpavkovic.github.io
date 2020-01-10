@@ -6,12 +6,15 @@ description: >
   content ranging from iOS to computers to robotics. Enjoy!
 baseurl: ""
 url: "https://michaelpavkovic.com"
-twitter_username: michaelminer20
-github_username:  michaelminer20
+twitter_username: mpavkovic2
+github_username:  mpavkovic2
 freelancer_username: mpavkovic688
 privacy_policy: Privacy Policy
 favicon: /favicon.png
 resume: /resume-public.pdf
+
+# Give 'pretty' URLs (without the .html at the end)
+permalink: pretty
 
 # Build settings
 markdown: kramdown
@@ -25,3 +28,8 @@ exclude:
 
 # Google services
 google_analytics: UA-92571020-1
+
+# Collections
+collections:
+  projects:
+    output: true
