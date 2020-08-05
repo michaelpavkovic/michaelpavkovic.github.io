@@ -8,7 +8,6 @@ baseurl: ""
 url: "https://michaelpavkovic.com"
 twitter_username: mpavkovic2
 github_username:  mpavkovic2
-freelancer_username: mpavkovic688
 privacy_policy: Privacy Policy
 favicon: /favicon.png
 resume: /resume-public.pdf
@@ -27,7 +26,7 @@ exclude:
   - Gemfile.lock
 
 # Google services
-google_analytics: UA-92571020-1
+# google_analytics:
 
 # Collections
 collections:
